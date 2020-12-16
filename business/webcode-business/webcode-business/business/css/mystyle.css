@@ -1,0 +1,21 @@
+.copy-right{
+	text-align: center;
+	background-color: black;
+	color: white;
+	width: 100%;
+	margin: 10px 0 0 0;
+	padding: 10px;
+}
+
+.copy-right p{
+	margin: 0;
+}
+
+.logo{
+	width: 120px;
+}
+
+.category{
+	margin: 40px;
+	padding: 20px;
+}

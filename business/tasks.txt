@@ -1,0 +1,23 @@
+TASK TO PERFORM - FRONTEND
+* Create a database
+* Connect to database using php and mysqli
+* Link all pages to database connection.
+* Create categories table in business database.
+* insert data into the table.
+* Read data from categories table to frontend
+* Create locations table in business database.
+* Read data from locations table to frontend
+
+* Create listings table in business database (in de phpmyadmin).
+-id
+-name
+- cat_id
+- loc_id
+-description
+-mobile
+-email
+-website
+-image
+-date posted
+ 
+* Read data from listing table to frontend
