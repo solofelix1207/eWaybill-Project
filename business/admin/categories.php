@@ -44,10 +44,10 @@
                     $cat_title = $row['cat_title'];
 
                     
-                  <tr>
-                      <td>Jonas Alexander</td>
-                      <td>Developer</td>
-                      <td>Aviation</td>
+                  echo <tr>
+                  echo <td>Jonas Alexander</td>
+                  echo <td>Developer</td>
+                  echo <td>Aviation</td>
                   </tr>
 
                   }
